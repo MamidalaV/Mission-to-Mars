@@ -3,7 +3,7 @@
 # PURPOSE: The purpose of this project is to create a web application using webscraping logics by extracting various bits of information on planet Mars from different websites.
 
 ### Using Splinter and BeautifulSoup libraries in Python:
-- The html code "https://redplanetscience.com/" is accessed and the title and headline of the latest article is scraped.
+- The html code of "https://redplanetscience.com/" is accessed and the title and headline of the latest article is scraped.
   
 ![news](https://user-images.githubusercontent.com/74985818/117238448-eb893880-adfa-11eb-8859-c8e8355fb861.png)
 
@@ -17,7 +17,7 @@
 ![mongodb](https://user-images.githubusercontent.com/74985818/117238648-4c187580-adfb-11eb-8801-126fe16cba80.png)
 
 
-### The data scraped from these websites is stored in MongoDB and using HTML, a webpage is designed to display this information.
+### After saving the scraped information within MongoDB, using HTML, a webpage is designed to display this information.
 
 This is acheived using the below code designed within the 'flask' application (app.py)
 
