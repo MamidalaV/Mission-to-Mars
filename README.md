@@ -1,6 +1,6 @@
 # Mission-to-Mars
 
-# PURPOSE: The purpose of this project is to create a web application using webscraping logics by extracting various bits of information on planet Mars from different websites.
+# PURPOSE: The purpose of this project is to create a web application, that is mobile responsive, using webscraping logics by extracting various bits of information on planet Mars from different websites.
 
 ### Using Splinter and BeautifulSoup libraries in Python:
 - The html code of "https://redplanetscience.com/" is accessed and the title and headline of the latest article is scraped.
