@@ -31,7 +31,7 @@ This is acheived using the below code designed within the 'flask' application (a
 
 ![hemispheres](https://user-images.githubusercontent.com/74985818/117239320-8e8e8200-adfc-11eb-8f47-5bfc691b5540.png)
 
-### Within the HTML code, 2 additional bootstrap components are used to change the color of the 'Scrape New Data' button and background image (Ingenuity helicopter's first flight on Mars) added inside the Jumbotron class of first < div/ > tag.
+### Within the HTML code, 2 additional bootstrap components are used to change the color of the 'Scrape New Data' button and background image (Ingenuity's first flight on Mars) added inside the Jumbotron class of first < div/ > tag.
   
 ![bootstraps](https://user-images.githubusercontent.com/74985818/117239596-15dbf580-adfd-11eb-908e-2ac2b484e280.png)
 
