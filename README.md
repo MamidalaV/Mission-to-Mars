@@ -23,7 +23,7 @@ This is acheived using the below code designed within the 'flask' application (a
 
 ![flask](https://user-images.githubusercontent.com/74985818/117238793-87b33f80-adfb-11eb-8110-526aa882269f.png)
 
-### Website code using HTML can be found ![] <<here>> where with a button click, all the lastest information needed for this project can be scraped when needed.
+### Website code using HTML can be found [here](https://github.com/MamidalaV/Mission-to-Mars/blob/main/templates/index.html), where with a button click, all the lastest information needed for this project can be scraped when needed from various websites.
   
 ![webpage](https://user-images.githubusercontent.com/74985818/117239195-4e2f0400-adfc-11eb-9e2b-cd3490864bb9.png)
   
